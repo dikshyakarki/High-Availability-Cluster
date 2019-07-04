@@ -1,7 +1,4 @@
 # High Availability Cluster
-
-Design and implementation of a simple application layer protocol over UDP to facilitate HAC.
-<br />
 HAC has a set of mechanism to detect failovers, network/node failure etc. in order to re-route the traffic to the available systems. 
 <br />
 The designed protocol will perform the following functions:
